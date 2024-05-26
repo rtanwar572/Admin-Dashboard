@@ -103,7 +103,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you have any questions, feel free to reach out:
 
-- **Your Name**
+- **Rohit Tanwar**
 - **Email**: rtanwar7303@gmail.com
 - **LinkedIn**: https://www.linkedin.com/in/rohit-tanwar-7303-code/
 
