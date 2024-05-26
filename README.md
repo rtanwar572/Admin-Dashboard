@@ -104,8 +104,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you have any questions, feel free to reach out:
 
 - **Your Name**
-- **Email**: your.email@example.com
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile/)
+- **Email**: rtanwar7303@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/rohit-tanwar-7303-code/
 
 ---
 
